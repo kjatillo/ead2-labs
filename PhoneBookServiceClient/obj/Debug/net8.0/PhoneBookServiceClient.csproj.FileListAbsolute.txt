@@ -1,0 +1,14 @@
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\bin\Debug\net8.0\PhoneBookServiceClient.exe
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\bin\Debug\net8.0\PhoneBookServiceClient.deps.json
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\bin\Debug\net8.0\PhoneBookServiceClient.runtimeconfig.json
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\bin\Debug\net8.0\PhoneBookServiceClient.dll
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\bin\Debug\net8.0\PhoneBookServiceClient.pdb
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\PhoneBookServiceClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\PhoneBookServiceClient.AssemblyInfoInputs.cache
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\PhoneBookServiceClient.AssemblyInfo.cs
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\PhoneBookServiceClient.csproj.CoreCompileInputs.cache
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\PhoneBookServiceClient.dll
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\refint\PhoneBookServiceClient.dll
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\PhoneBookServiceClient.pdb
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\PhoneBookServiceClient.genruntimeconfig.cache
+E:\Dev\_TUD\EAD\ead2-labs\PhoneBookServiceClient\obj\Debug\net8.0\ref\PhoneBookServiceClient.dll
