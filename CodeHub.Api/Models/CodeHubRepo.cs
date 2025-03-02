@@ -3,7 +3,6 @@ using System.Runtime.Serialization;
 
 namespace CodeHub.Api.Models;
 
-[DataContract]
 public class CodeHubRepo
 {
     [Required]
