@@ -86,8 +86,7 @@ public class CloseApproachController : ControllerBase
     {
         DateTime now = DateTime.Now;
 
-        var closestAsteroid = asteroids
-            .OrderBy(a => Math.Abs((now - a.CloseApproach.CloseApproachDate).TotalSeconds)).First();
+        var closestAsteroid = asteroids.OrderBy(a => a.CloseApproach.LunarDistance).First();
 
         return Ok(closestAsteroid);
     }
